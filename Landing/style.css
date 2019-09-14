@@ -1,0 +1,57 @@
+body {
+	background-color: rgb(221, 216, 196);
+	color: rgb(22, 74, 78);
+	font-family: 'Acme', sans-serif;
+
+background-size: 100% 10%: 
+}
+
+a{ 
+	text-decoration: none;
+color: rgba(100, 100, 150); 
+}
+
+#intro{
+	align-content: right;
+}
+
+#banner {
+	text-align: center;
+	background-image: url(https://images.unsplash.com/photo-1561737271-954105a4bda1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1400&q=80);
+	padding:100px;  
+	background-size:cover;
+}
+
+#plums {
+	border-style: solid;
+	border width: 10px;
+	border-color: darkgray;
+	border-radius: 20px;
+}
+
+#strawberries {
+	border-style: solid;
+	border width: 10px;
+	border-color: darkgray;
+	border-radius: 20px;
+
+}
+
+#figs {
+	border-style: solid;
+	border width: 10px;
+	border-color: darkgray;
+	border-radius: 20px;
+}
+
+#grapes{
+	border-style: solid;
+	border width: 10px;
+	border-color: darkgray;
+	border-radius: 20px;
+}
+
+.square{
+	height: 400px;
+	width: 400px;
+}
